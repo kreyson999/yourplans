@@ -1,6 +1,6 @@
 # yourplans
 
-A new Flutter project.
+Flutter TodoApp made with SQFLite and Awesome Notifications.
 
 ## Getting Started
 
